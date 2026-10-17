@@ -60,8 +60,7 @@ The following diagram shows the four I²C connections for this project.
 ESP32-C3-OLED-Controller/
 ├── README.md
 ├── LICENSE
-├── images/
-│   └── esp32-c3-oled-wiring.png
+├── esp32-c3-oled-wiring.png
 ├── oled_connected_to_home_wifi/
 │   └── oled_connected_to_home_wifi.ino
 └── sketch_oct16a/
