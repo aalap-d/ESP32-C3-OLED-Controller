@@ -25,7 +25,7 @@ Creates its own Wi-Fi access point so a phone or computer can connect directly t
 
 The following diagram shows the four I²C connections for this project.
 
-![ESP32-C3 SuperMini to SH1106 OLED wiring diagram](images/esp32-c3-oled-wiring.png)
+![ESP32-C3 SuperMini to SH1106 OLED wiring diagram](esp32-c3-oled-wiring.png)
 
 ### Pin connections
 
